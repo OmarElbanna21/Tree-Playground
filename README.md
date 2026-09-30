@@ -254,4 +254,4 @@ Omar El-Banna — CCE Year 2, Alexandria University, Faculty of Engineering.
 Data Structures.
 
 ## License
-Released under the MIT License. Developed as a course project for the Data Structures (1), Faculty of Engineering, Alexandria University 
+Released under the MIT License. Developed as a course project for Data Structures (1), Faculty of Engineering, Alexandria University. 
