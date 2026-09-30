@@ -250,5 +250,5 @@ These are standalone modules used internally by the traversal functions.
 
 ## Author
 
-Omar — CCE Year 2, Alexandria University, Faculty of Engineering.
-Data Structures course project.
+Omar El-Banna — CCE Year 2, Alexandria University, Faculty of Engineering.
+Data Structures.
